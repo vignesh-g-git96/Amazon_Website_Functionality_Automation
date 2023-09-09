@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="122038" started-at="2023-09-09T17:10:38Z" finished-at="2023-09-09T17:12:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="122038" started-at="2023-09-09T17:10:38Z" finished-at="2023-09-09T17:12:40Z">
+      <class name="org.amazonfunctionalitytest.Amazon_Functionality_Test">
+        <test-method status="PASS" signature="test_1_LoginPage()[pri:0, instance:org.amazonfunctionalitytest.Amazon_Functionality_Test@60c6f5b]" name="test_1_LoginPage" duration-ms="51110" started-at="2023-09-09T17:10:38Z" finished-at="2023-09-09T17:11:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_1_LoginPage -->
+        <test-method status="PASS" signature="test_2_SearchBox()[pri:0, instance:org.amazonfunctionalitytest.Amazon_Functionality_Test@60c6f5b]" name="test_2_SearchBox" duration-ms="53671" started-at="2023-09-09T17:11:29Z" finished-at="2023-09-09T17:12:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_2_SearchBox -->
+        <test-method status="PASS" signature="test_3_SelectProduct()[pri:0, instance:org.amazonfunctionalitytest.Amazon_Functionality_Test@60c6f5b]" name="test_3_SelectProduct" duration-ms="253" started-at="2023-09-09T17:12:23Z" finished-at="2023-09-09T17:12:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_3_SelectProduct -->
+        <test-method status="PASS" signature="test_4_AddToCart()[pri:0, instance:org.amazonfunctionalitytest.Amazon_Functionality_Test@60c6f5b]" name="test_4_AddToCart" duration-ms="16954" started-at="2023-09-09T17:12:23Z" finished-at="2023-09-09T17:12:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_4_AddToCart -->
+      </class> <!-- org.amazonfunctionalitytest.Amazon_Functionality_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
